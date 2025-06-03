@@ -1,0 +1,54 @@
+.heading {
+  color: #0d2b5d; /* أزرق غامق */
+  font-weight: bold;
+}
+
+.main-name {
+  color: #007e6a !important; /* أخضر */
+}
+
+.heading-name {
+  color: #ffffff;
+  font-size: 1.8rem;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.4);
+}
+
+.typing-effect {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.home-about-description h1 {
+  color: #0d2b5d;
+  font-weight: bold;
+}
+
+.home-about-description p {
+  color: #ffffff;
+  line-height: 1.8;
+  font-size: 1.1rem;
+}
+
+span {
+  color: #007e6a !important;
+}
+
+/* Overlay for background dimming */
+.home-section {
+  position: relative;
+}
+
+.home-section .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.3);
+  z-index: 1;
+}
+
+.home-content {
+  position: relative;
+  z-index: 2;
+}
