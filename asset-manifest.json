@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/SharkOffice/static/css/main.a1fe1ad2.css",
-    "main.js": "/SharkOffice/static/js/main.a971cf62.js",
+    "main.css": "/SharkOffice/static/css/main.bfe93fb1.css",
+    "main.js": "/SharkOffice/static/js/main.182f96a8.js",
     "static/js/415.4d6acbeb.chunk.js": "/SharkOffice/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/SharkOffice/static/js/787.1ed0c42c.chunk.js",
     "static/media/private-office-25.png": "/SharkOffice/static/media/private-office-25.53325b38363d13da5284.png",
@@ -13,16 +13,17 @@
     "static/media/private-office.png": "/SharkOffice/static/media/private-office.f844033b8f15191d5028.png",
     "static/media/home2-bg.jpeg": "/SharkOffice/static/media/home2-bg.da0fe4ea47e4123ba3b6.jpeg",
     "static/media/home-main.svg": "/SharkOffice/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/home-bg.jpg": "/SharkOffice/static/media/home-bg.d3c27de7a5fe1929b174.jpg",
+    "static/media/home-bg.jpeg": "/SharkOffice/static/media/home-bg.d3c27de7a5fe1929b174.jpeg",
+    "static/media/home-bg.jpg": "/SharkOffice/static/media/home-bg.265b3ac450668e1bd887.jpg",
     "static/media/pre.svg": "/SharkOffice/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/SharkOffice/index.html",
-    "main.a1fe1ad2.css.map": "/SharkOffice/static/css/main.a1fe1ad2.css.map",
-    "main.a971cf62.js.map": "/SharkOffice/static/js/main.a971cf62.js.map",
+    "main.bfe93fb1.css.map": "/SharkOffice/static/css/main.bfe93fb1.css.map",
+    "main.182f96a8.js.map": "/SharkOffice/static/js/main.182f96a8.js.map",
     "415.4d6acbeb.chunk.js.map": "/SharkOffice/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/SharkOffice/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1fe1ad2.css",
-    "static/js/main.a971cf62.js"
+    "static/css/main.bfe93fb1.css",
+    "static/js/main.182f96a8.js"
   ]
 }
