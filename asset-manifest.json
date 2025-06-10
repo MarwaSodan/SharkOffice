@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/SharkOffice/static/css/main.bfe93fb1.css",
+    "main.css": "/SharkOffice/static/css/main.990e034f.css",
     "main.js": "/SharkOffice/static/js/main.182f96a8.js",
     "static/js/415.4d6acbeb.chunk.js": "/SharkOffice/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/SharkOffice/static/js/787.1ed0c42c.chunk.js",
@@ -17,13 +17,13 @@
     "static/media/home-bg.jpg": "/SharkOffice/static/media/home-bg.265b3ac450668e1bd887.jpg",
     "static/media/pre.svg": "/SharkOffice/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/SharkOffice/index.html",
-    "main.bfe93fb1.css.map": "/SharkOffice/static/css/main.bfe93fb1.css.map",
+    "main.990e034f.css.map": "/SharkOffice/static/css/main.990e034f.css.map",
     "main.182f96a8.js.map": "/SharkOffice/static/js/main.182f96a8.js.map",
     "415.4d6acbeb.chunk.js.map": "/SharkOffice/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/SharkOffice/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bfe93fb1.css",
+    "static/css/main.990e034f.css",
     "static/js/main.182f96a8.js"
   ]
 }
